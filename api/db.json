@@ -1,0 +1,75 @@
+{
+  "columns": [
+    {
+      "id": "cXrtw5n8-FsB",
+      "title": "TODO"
+    },
+    {
+      "id": "w7DTqK1QQKTI",
+      "title": "Doing"
+    },
+    {
+      "id": "bfrqTfEydU38",
+      "title": "Waiting"
+    },
+    {
+      "id": "dfwMbxZS0EmM",
+      "title": "Done"
+    }
+  ],
+  "cards": [
+    {
+      "id": "7lR4Vd3EYixP",
+      "text": "布団から出る"
+    },
+    {
+      "id": "TsXP5w9qLeM-",
+      "text": "顔を洗う👐"
+    },
+    {
+      "id": "rh022hj9zG58",
+      "text": "歯を磨く"
+    },
+    {
+      "id": "RbQnw2URLop2",
+      "text": "勉強する"
+    },
+    {
+      "id": "Iaf4TnSZxr4h",
+      "text": "x"
+    },
+    {
+      "id": "spWhzRVhGTIn",
+      "text": "fa"
+    },
+    {
+      "id": "jrfUzWE3Gs4m",
+      "text": "Apple"
+    },
+    {
+      "id": "Iq8vWje8u0zT",
+      "text": "ffffff"
+    },
+    {
+      "id": "bqeCzPsZ7BVY",
+      "text": "aaa"
+    },
+    {
+      "id": "opetI603euCs",
+      "text": "fa"
+    },
+    {
+      "id": "CQ2BJ8zXblGt",
+      "text": "ｆ"
+    }
+  ],
+  "cardsOrder": {
+    "cXrtw5n8-FsB": "rh022hj9zG58",
+    "w7DTqK1QQKTI": "TsXP5w9qLeM-",
+    "bfrqTfEydU38": "bfrqTfEydU38",
+    "dfwMbxZS0EmM": "7lR4Vd3EYixP",
+    "7lR4Vd3EYixP": "dfwMbxZS0EmM",
+    "TsXP5w9qLeM-": "w7DTqK1QQKTI",
+    "rh022hj9zG58": "cXrtw5n8-FsB"
+  }
+}

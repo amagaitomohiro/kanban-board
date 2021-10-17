@@ -1,0 +1,12 @@
+# npm
+node_modules/
+
+# Percel
+/.cache/
+/dist/
+
+# TypeScript
+/.ts-cache/
+
+# Test
+/test/dist/

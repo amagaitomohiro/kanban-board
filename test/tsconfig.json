@@ -1,0 +1,12 @@
+{
+  "extends": "../tsconfig.json",
+
+  "compilerOptions": {
+    "lib": ["ES2019", "DOM"],
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "types": ["node"]
+  },
+
+  "include": ["../src/**/*.d.ts", "./**/*.ts", "reducer.test.ts"]
+}
